@@ -12,3 +12,8 @@ Certificados de conclusão de cursos realizados.
 
 - Link: [Certificado C II](https://cursos.alura.com.br/certificate/c7af847e-db45-46e8-9952-64af2da6adbc)
 - PDF: [Certificado C II](https://github.com/dario-gms/Certificados/files/8111368/Certificado.C.II.pdf)
+
+## Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos
+
+- Link: [Modelagem de banco de dados relacional](https://cursos.alura.com.br/certificate/32965d3a-8016-4f68-b699-f70f6981d246) 
+- PDF: [Modelagem de banco de dados relacional](https://github.com/dario-gms/Certificados/files/8111410/Modelagem.de.dados.I.pdf)
