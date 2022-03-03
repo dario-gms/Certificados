@@ -15,5 +15,10 @@ Certificados de conclusão de cursos realizados.
 
 ## Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos
 
-- Link: [Modelagem de banco de dados relacional](https://cursos.alura.com.br/certificate/32965d3a-8016-4f68-b699-f70f6981d246) 
-- PDF: [Modelagem de banco de dados relacional](https://github.com/dario-gms/Certificados/files/8111410/Modelagem.de.dados.I.pdf)
+- Link: [Entidades, Relacionamentos e Atributos](https://cursos.alura.com.br/certificate/32965d3a-8016-4f68-b699-f70f6981d246) 
+- PDF: [Entidades, Relacionamentos e Atributos](https://github.com/dario-gms/Certificados/files/8111410/Modelagem.de.dados.I.pdf)
+
+## Modelagem de banco de dados relacional: Modelo e Álgebra relacional
+
+- Link: [Modelo e Álgebra Relacional](https://cursos.alura.com.br/certificate/07bc3ea1-7243-45bc-8e87-81f8e6dc25e1)
+- PDF: [Modelo e Álgebra Relacional](https://github.com/dario-gms/Certificados/files/8179656/Algebra.Relacional.pdf)
