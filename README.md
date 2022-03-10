@@ -22,3 +22,8 @@ Certificados de conclusão de cursos realizados.
 
 - Link: [Modelo e Álgebra Relacional](https://cursos.alura.com.br/certificate/07bc3ea1-7243-45bc-8e87-81f8e6dc25e1)
 - PDF: [Modelo e Álgebra Relacional](https://github.com/dario-gms/Certificados/files/8179656/Algebra.Relacional.pdf)
+
+## Modelagem de banco de dados relacional: Diagrama ER e Modelo Relacional
+
+- Link: [Diagrama ER e Modelo Relacional](https://cursos.alura.com.br/certificate/90feba95-75b0-40d2-8642-b8ba88df69a8)
+- PDF: [Diagrama ER e Modelo Relacional](https://github.com/dario-gms/Certificados/files/8224167/Diagrama.ER.e.Modelo.Relacional.pdf)
