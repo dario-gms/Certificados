@@ -27,3 +27,9 @@ Certificados de conclusão de cursos realizados.
 
 - Link: [Diagrama ER e Modelo Relacional](https://cursos.alura.com.br/certificate/90feba95-75b0-40d2-8642-b8ba88df69a8)
 - PDF: [Diagrama ER e Modelo Relacional](https://github.com/dario-gms/Certificados/files/8224167/Diagrama.ER.e.Modelo.Relacional.pdf)
+
+## Modelagem de banco de dados relacional: Normalização
+
+- Link: [Normalização](https://cursos.alura.com.br/certificate/db64d88c-ce1c-4df7-9d8a-81a890f317e3)
+- PDF: [Normalização](https://github.com/dario-gms/Certificados/files/8307204/Normailizacao.pdf)
+
