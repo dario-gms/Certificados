@@ -33,3 +33,9 @@ Certificados de conclusão de cursos realizados.
 - Link: [Normalização](https://cursos.alura.com.br/certificate/db64d88c-ce1c-4df7-9d8a-81a890f317e3)
 - PDF: [Normalização](https://github.com/dario-gms/Certificados/files/8307204/Normailizacao.pdf)
 
+## Modelagem de banco de dados relacional: entendendo SQL
+
+
+- Link: [Entendendo SQL](https://cursos.alura.com.br/certificate/fce389e0-cd7d-4be1-a348-c66583862997)
+- PDF: [Entendendo SQL](https://github.com/dario-gms/Certificados/files/8400318/EntendendoSql.pdf)
+
