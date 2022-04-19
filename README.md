@@ -44,3 +44,8 @@ Certificados de conclusão de cursos realizados.
 - Link: [Começando com NoSQL](https://cursos.alura.com.br/certificate/859561eb-34b7-4004-bf03-d8f3cee88ac9)
 - PDF: [Começando com NoSQL](https://github.com/dario-gms/Certificados/files/8464071/comecandoNoSQL.pdf)
 
+## Dart: Primeiros passos
+
+- Link: [Dart: Primeiros passos](https://cursos.alura.com.br/certificate/456461e6-4fa1-41aa-a8ab-ac33fb1c41b3)
+- PDF: [Dart: Primeiros passos](https://github.com/dario-gms/Certificados/files/8513787/dartPrimeirosPassos.pdf)
+
